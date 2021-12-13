@@ -1,0 +1,14 @@
+C:\Users\ZParr\source\repos\LINQLab\LINQLab\bin\Debug\netcoreapp3.1\LINQLab.exe
+C:\Users\ZParr\source\repos\LINQLab\LINQLab\bin\Debug\netcoreapp3.1\LINQLab.deps.json
+C:\Users\ZParr\source\repos\LINQLab\LINQLab\bin\Debug\netcoreapp3.1\LINQLab.runtimeconfig.json
+C:\Users\ZParr\source\repos\LINQLab\LINQLab\bin\Debug\netcoreapp3.1\LINQLab.runtimeconfig.dev.json
+C:\Users\ZParr\source\repos\LINQLab\LINQLab\bin\Debug\netcoreapp3.1\LINQLab.dll
+C:\Users\ZParr\source\repos\LINQLab\LINQLab\bin\Debug\netcoreapp3.1\LINQLab.pdb
+C:\Users\ZParr\source\repos\LINQLab\LINQLab\obj\Debug\netcoreapp3.1\LINQLab.csproj.AssemblyReference.cache
+C:\Users\ZParr\source\repos\LINQLab\LINQLab\obj\Debug\netcoreapp3.1\LINQLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZParr\source\repos\LINQLab\LINQLab\obj\Debug\netcoreapp3.1\LINQLab.AssemblyInfoInputs.cache
+C:\Users\ZParr\source\repos\LINQLab\LINQLab\obj\Debug\netcoreapp3.1\LINQLab.AssemblyInfo.cs
+C:\Users\ZParr\source\repos\LINQLab\LINQLab\obj\Debug\netcoreapp3.1\LINQLab.csproj.CoreCompileInputs.cache
+C:\Users\ZParr\source\repos\LINQLab\LINQLab\obj\Debug\netcoreapp3.1\LINQLab.dll
+C:\Users\ZParr\source\repos\LINQLab\LINQLab\obj\Debug\netcoreapp3.1\LINQLab.pdb
+C:\Users\ZParr\source\repos\LINQLab\LINQLab\obj\Debug\netcoreapp3.1\LINQLab.genruntimeconfig.cache

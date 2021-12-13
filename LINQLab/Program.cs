@@ -96,7 +96,8 @@ namespace LINQLab
             Console.WriteLine("Oldest Student Under 25:");
             List<Student> under25 = students.Where(x => x.Age < 25).ToList();
             int oldestUnder25 = under25.Max(x => x.Age);
-            Console.WriteLine($"{(under25.Where(x => x.Age == oldestUnder25).First()).Name}");
+            Console.WriteLine($"{(under25.Where(x => x.Age == oldestUnder25).First()).Name} " +
+                $"\nAge: {(under25.Where(x => x.Age == oldestUnder25).First()).Age}");
             //foreach (Student s in oldestUnder25)
             //{
             //    Console.WriteLine($"{s.Name}");
